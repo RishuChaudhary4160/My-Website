@@ -1,0 +1,22 @@
+.pq-copyright-footer {
+    padding: 20px 0;
+    background: #0d0d0d;
+}
+.container {
+    max-width: 1300px;
+    position: relative;
+
+}
+.container .row h1{
+    color:white;
+    margin:50px;
+    line-height: 0.0;
+    font-family: "Lora", "Helvetica Neue", Arial, sans-serif;
+    font-size: 50px;
+}
+.pq-bottom-header {
+    z-index: 1;
+}
+
+
+
